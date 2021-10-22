@@ -5,6 +5,7 @@
     padding: 12px;
     position: relative;
     align-items: center;
+/**    position: fixed;**/
 }
 
 .menu{
