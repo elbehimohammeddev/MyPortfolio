@@ -1,0 +1,27 @@
+export const SocialData = [
+    {
+        platform:"LinkedIn",
+        link:"https://www.linkedin.com/in/mohammed-el-behi-060466136/",
+        icon:require("../../assets/icons/linkedin.png").default,
+    },
+    {
+        platform:"GitHub",
+        link:"https://github.com/elbehimohammeddev",
+        icon:require("../../assets/icons/github.png").default,
+    },
+    {
+        platform:"Facebook",
+        link:"https://www.facebook.com/Mouda.Mohammed.elbehi/",
+        icon:require("../../assets/icons/facebook.png").default,
+    },
+    {
+        platform:"Instagram",
+        link:"https://www.instagram.com/elbehi_mohammed/",
+        icon:require("../../assets/icons/instagram.png").default,
+    },
+    {
+        platform:"Whatsapp",
+        link:"",
+        icon:require("../../assets/icons/whatsapp.png").default,
+    },
+];
