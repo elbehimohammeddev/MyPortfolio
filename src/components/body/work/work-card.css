@@ -38,5 +38,9 @@
 @media only screen and (max-width: 720px) {
     .work-card{
         width: 100%;
+        flex-direction: column-reverse;
+    }
+    .work-logo{
+        height: 80px;
     }
 }
