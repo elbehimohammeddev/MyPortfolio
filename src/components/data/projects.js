@@ -1,4 +1,4 @@
-import todolist from "../../assets/TodoList.jpg";
+import todolist from "../../assets/TodoList.png";
 import movieapp from "../../assets/MovieApp2.PNG";
 import gomyforum from "../../assets/GoMyForum.PNG";
 import youarehere from "../../assets/youarehere.jpg";
@@ -28,7 +28,7 @@ export const ProjectData=[
         about:"A front-end website interface for movies, where the user can search for movies, filter by rating and names and can add a movie to the list.",
         tags:["HTML","CSS","JavaScript","ReactJS","ReactRedux","Bootstap","DOM"],
         demo:"",
-        github:"xxx",
+        github:"https://github.com/elbehimohammeddev/MovieApp1",
         image: movieapp,
     },
     {
@@ -37,7 +37,7 @@ export const ProjectData=[
         about:"A front-end website interface that allows you to create, read, update and delete (CRUD) your to-dos.",
         tags:["HTML","CSS","JavaScript","ReactJS","ReactRedux","Bootstap","DOM"],
         demo:"",
-        github:"xxx",
+        github:"https://github.com/elbehimohammeddev/To-Do-List",
         image: todolist,
     },
 ];
